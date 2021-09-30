@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important
+
+Make sure you added your own API keys from RapidApi.com for Coinranking and Bing News Search into /src/services/cryptoApi.js & /src/services/cryptoNewsApi.js
+
 ## Available Scripts
 
 In the project directory, you can run:
